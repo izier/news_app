@@ -1,6 +1,6 @@
 # News App - Implementation of NewsAPI
 
-<div align= 'center'>
+<div align= 'left'>
   <img src='https://github.com/izier/news_app/blob/main/screenshots/1.jpg' width='200'>
   <img src='https://github.com/izier/news_app/blob/main/screenshots/2.jpg' width='200'>
   <img src='https://github.com/izier/news_app/blob/main/screenshots/3.jpg' width='200'>
