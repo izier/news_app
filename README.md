@@ -1,13 +1,11 @@
 # News App - Implementation of NewsAPI
 
-<div align='center'>
-   <img src='https://github.com/izier/news_app/blob/main/screenshots/1.jpg' width='240'>
-   <img src='https://github.com/izier/news_app/blob/main/screenshots/2.jpg' width='240'>
-   <img src='https://github.com/izier/news_app/blob/main/screenshots/3.jpg' width='240'>
-   <img src='https://github.com/izier/news_app/blob/main/screenshots/4.jpg' width='240'>
-   <img src='https://github.com/izier/news_app/blob/main/screenshots/5.jpg' width='240'>
-   <img src='https://github.com/izier/news_app/blob/main/screenshots/6.jpg' width='240'>
-</div>
+<img src='https://github.com/izier/news_app/blob/main/screenshots/1.jpg' width='240'>
+<img src='https://github.com/izier/news_app/blob/main/screenshots/2.jpg' width='240'>
+<img src='https://github.com/izier/news_app/blob/main/screenshots/3.jpg' width='240'>
+<img src='https://github.com/izier/news_app/blob/main/screenshots/4.jpg' width='240'>
+<img src='https://github.com/izier/news_app/blob/main/screenshots/5.jpg' width='240'>
+<img src='https://github.com/izier/news_app/blob/main/screenshots/6.jpg' width='240'>
 
 Posted is a simple news app built with Flutter. It is connected to [NewsAPI](https://newsapi.org/) for its article and news data needs.
 
